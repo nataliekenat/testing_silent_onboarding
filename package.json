@@ -15,7 +15,7 @@
   "dependencies": {
     "@googlemaps/markerclusterer": "^1.0.21",
     "@vue/cli-plugin-eslint": "^4.5.12",
-    "@vue/cli-service": "^4.5.12",
+    "@vue/cli-service": "^5.0.0",
     "@vueuse/core": "^4.6.3",
     "animejs": "^3.2.1",
     "ant-design-vue": "^1.7.8",
